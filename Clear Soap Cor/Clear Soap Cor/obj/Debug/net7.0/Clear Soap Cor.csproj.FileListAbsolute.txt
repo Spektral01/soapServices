@@ -1,0 +1,77 @@
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\obj\Debug\net7.0\Clear Soap Cor.csproj.AssemblyReference.cache
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\obj\Debug\net7.0\Clear Soap Cor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\obj\Debug\net7.0\Clear Soap Cor.AssemblyInfoInputs.cache
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\obj\Debug\net7.0\Clear Soap Cor.AssemblyInfo.cs
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\obj\Debug\net7.0\Clear Soap Cor.csproj.CoreCompileInputs.cache
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\obj\Debug\net7.0\Clear Soap Cor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\obj\Debug\net7.0\Clear Soap Cor.RazorAssemblyInfo.cache
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\obj\Debug\net7.0\Clear Soap Cor.RazorAssemblyInfo.cs
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\appsettings.json
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\Clear Soap Cor.staticwebassets.runtime.json
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\Clear Soap Cor.exe
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\Clear Soap Cor.deps.json
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\Clear Soap Cor.runtimeconfig.json
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\Clear Soap Cor.dll
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\Clear Soap Cor.pdb
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\SoapCore.dll
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\System.Private.ServiceModel.dll
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\System.ServiceModel.Http.dll
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\System.ServiceModel.Primitives.dll
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\System.ServiceModel.dll
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\obj\Debug\net7.0\staticwebassets\msbuild.Clear Soap Cor.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\obj\Debug\net7.0\staticwebassets\msbuild.build.Clear Soap Cor.props
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Clear Soap Cor.props
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Clear Soap Cor.props
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\obj\Debug\net7.0\scopedcss\bundle\Clear Soap Cor.styles.css
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\obj\Debug\net7.0\scopedcss\projectbundle\Clear Soap Cor.bundle.scp.css
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\obj\Debug\net7.0\Clear Soap Cor.csproj.CopyComplete
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\obj\Debug\net7.0\Clear Soap Cor.dll
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\obj\Debug\net7.0\refint\Clear Soap Cor.dll
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\obj\Debug\net7.0\Clear Soap Cor.pdb
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\obj\Debug\net7.0\Clear Soap Cor.genruntimeconfig.cache
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\obj\Debug\net7.0\ref\Clear Soap Cor.dll
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\Connected Services\WebServiceReference\ConnectedService.json
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.WsTrust.dll
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.Saml.dll
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\Microsoft.IdentityModel.Xml.dll
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\System.ServiceModel.Duplex.dll
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\System.ServiceModel.Federation.dll
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\System.ServiceModel.NetTcp.dll
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\System.ServiceModel.Security.dll
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\cs\System.Private.ServiceModel.resources.dll
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\de\System.Private.ServiceModel.resources.dll
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\es\System.Private.ServiceModel.resources.dll
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\fr\System.Private.ServiceModel.resources.dll
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\it\System.Private.ServiceModel.resources.dll
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\ja\System.Private.ServiceModel.resources.dll
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\ko\System.Private.ServiceModel.resources.dll
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\pl\System.Private.ServiceModel.resources.dll
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\ru\System.Private.ServiceModel.resources.dll
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\tr\System.Private.ServiceModel.resources.dll
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\cs\System.ServiceModel.Federation.resources.dll
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\de\System.ServiceModel.Federation.resources.dll
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\es\System.ServiceModel.Federation.resources.dll
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\fr\System.ServiceModel.Federation.resources.dll
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\it\System.ServiceModel.Federation.resources.dll
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\ja\System.ServiceModel.Federation.resources.dll
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\ko\System.ServiceModel.Federation.resources.dll
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\pl\System.ServiceModel.Federation.resources.dll
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\pt-BR\System.ServiceModel.Federation.resources.dll
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\ru\System.ServiceModel.Federation.resources.dll
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\tr\System.ServiceModel.Federation.resources.dll
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\zh-Hans\System.ServiceModel.Federation.resources.dll
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\zh-Hant\System.ServiceModel.Federation.resources.dll
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\Users\chaly\source\repos\Clear Soap Cor\Clear Soap Cor\bin\Debug\net7.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
